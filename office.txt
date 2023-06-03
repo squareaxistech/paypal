@@ -1,0 +1,1 @@
+i ran a zip command but the file was created but wasn't compressed and when i run the ll -h command, it also does not display in human readable format 
